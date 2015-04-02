@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+
+
+
+
+
+
+.wrapper{
+	width:620px;
+	height:auto;
+	margin:0 auto;
+}
+
+.showDiv{
+	/*border:2px solid #000;*/
+	border-width:2px;
+	border-color:#000;
+	border-style:solid;
+}
+
+
+
+/* head Section */
+
+.headSection{
+	
+	height:450px;
+}
+
+.logoBox{
+
+width:350px;
+
+float:left;
+
+}
+
+.searchBox{
+	width:170px;
+	float:left;	
+}
+
+
+.nav{
+	height:50px;
+}
+
+.nav ul{
+list-style-type:none;
+}
+
+.nav ul li{
+padding: 0px 20px;
+}
+
+/* End of Head Section */
+
+
+
+
+
+
+
+
+
+
+.container {
+  max-width: 400px;
+  background-color: black;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.container div {
+  background-color: white;
+  width: 100%;
+display: none;
+}
+.container img {
+  width: 100%;
+  height: auto;
+}
